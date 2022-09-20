@@ -49,3 +49,9 @@ body{
     border: none;
     color: #ccc;
 }
+@media only screen and (max-width: 950px){ /* responsividade desktop */
+
+    body{
+        
+        margin: 0px 30px;
+    }
